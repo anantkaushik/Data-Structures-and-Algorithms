@@ -13,5 +13,6 @@ This is mostly for my personal learning and future references, but anyone can us
 	[Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
     	- [x] [Linear Search](Algorithms/Searching/linear-search.py)
+    	- [x] [Binary Search](Algorithms/Searching/binary-search.py)
     - [x] [Sorting](Algorithms/Sorting)
     	- [x] [Bubble Sort(optimized)](Algorithms/Sorting/bubble-sort.py)
