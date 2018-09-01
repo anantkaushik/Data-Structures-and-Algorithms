@@ -6,11 +6,11 @@ This is mostly for my personal learning and future references, but anyone can us
 
 ### Topics covered:
 
-- [x] [Data Structures](Data-Structures)
+	[Data Structures](Data-Structures)
     - [x] [Stack](Data-Structures/stack.py)
     - [x] [Queue](Data-Structures/queue.py)
 
-- [x] [Algorithms](Algorithms)
+	[Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
     	- [x] [Linear Search](Algorithms/Searching/linear-search.py)
     - [x] [Sorting](Algorithms/Sorting)
