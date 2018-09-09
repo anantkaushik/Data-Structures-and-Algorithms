@@ -7,6 +7,7 @@ This is mostly for my personal learning and future references, but anyone can us
 ### Topics covered:
 
 - [x] [Data Structures](Data-Structures)
+    - [x] [Array](Data-Structures/array.py)
     - [x] [Stack](Data-Structures/stack.py)
     - [x] [Queue](Data-Structures/queue.py)
 
