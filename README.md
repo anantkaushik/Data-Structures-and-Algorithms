@@ -18,4 +18,5 @@ This is mostly for my personal learning and future references, but anyone can us
     - [x] [Sorting](Algorithms/Sorting)
     	- [x] [Bubble Sort(optimized)](Algorithms/Sorting/bubble-sort.py)
     	- [x] [Selection Sort](Algorithms/Sorting/selection-sort.py)
-     	- [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
+        - [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
+        - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
