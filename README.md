@@ -10,6 +10,8 @@ This is mostly for my personal learning and future references, but anyone can us
     - [x] [Array](Data-Structures/array.py)
     - [x] [Stack](Data-Structures/stack.py)
     - [x] [Queue](Data-Structures/queue.py)
+    - [x] [Linked List](Data-Structures/Linked-List)
+    	- [x] [Singly Linked List](Data-Structures/Linked-List/Singly-Linked-List.py)
 
 - [x] [Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
