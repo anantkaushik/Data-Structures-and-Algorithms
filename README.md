@@ -12,6 +12,8 @@ This is mostly for my personal learning and future references, but anyone can us
     - [x] [Queue](Data-Structures/queue.py)
     - [x] [Linked List](Data-Structures/Linked-List)
     	- [x] [Singly Linked List](Data-Structures/Linked-List/Singly-Linked-List.py)
+    - [x] [Tree](Data-Structures/Tree)
+    	- [x] [Binary Serach Tree](Data-Structures/Tree/Binary-Search-Tree.py)
 
 - [x] [Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
