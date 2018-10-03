@@ -1,5 +1,5 @@
 """
------------------------- Binary Search Tree -------------------------
+----------------------- Binary Search Tree ------------------------
 """
 class Node:
 	def __init__(self, val):
