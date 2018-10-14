@@ -24,3 +24,4 @@ This is mostly for my personal learning and future references, but anyone can us
     	- [x] [Selection Sort](Algorithms/Sorting/selection-sort.py)
         - [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
         - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
+    - [x] [Kadane's Algorithm](Algorithms/Kadane's-Algorithm.py)
