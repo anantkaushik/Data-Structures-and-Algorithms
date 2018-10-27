@@ -1,27 +1,43 @@
-# Data Structures and Algorithms
-Data Structures and Algorithms implementation in Python.
+/*
+// Sample code to perform I/O:
 
-### Why this repository?
-This is mostly for my personal learning and future references, but anyone can use it for learning purpose. 🍻
+#include <iostream>
 
-### Topics covered:
+using namespace std;
 
-- [x] [Data Structures](Data-Structures)
-    - [x] [Array](Data-Structures/array.py)
-    - [x] [Stack](Data-Structures/stack.py)
-    - [x] [Queue](Data-Structures/queue.py)
-    - [x] [Linked List](Data-Structures/Linked-List)
-    	- [x] [Singly Linked List](Data-Structures/Linked-List/Singly-Linked-List.py)
-    - [x] [Tree](Data-Structures/Tree)
-    	- [x] [Binary Serach Tree](Data-Structures/Tree/Binary-Search-Tree.py)
+int main() {
+	int num;
+	cin >> num;										// Reading input from STDIN
+	cout << "Input number is " << num << endl;		// Writing output to STDOUT
+}
 
-- [x] [Algorithms](Algorithms)
-    - [x] [Searching](Algorithms/Searching)
-    	- [x] [Linear Search](Algorithms/Searching/linear-search.py)
-    	- [x] [Binary Search](Algorithms/Searching/binary-search.py)
-    - [x] [Sorting](Algorithms/Sorting)
-    	- [x] [Bubble Sort(optimized)](Algorithms/Sorting/bubble-sort.py)
-    	- [x] [Selection Sort](Algorithms/Sorting/selection-sort.py)
-        - [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
-        - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
-    - [x] [Kadane's Algorithm](Algorithms/Kadane's-Algorithm.py)
+// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
+*/
+
+// Write your code here
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    string s;
+    long long int flag=0,i;
+    //scanf("%s",b);
+    cin>>s;
+    for(i=0;i<s.length();i++)
+    {
+        if(s[i]==s[i+1]&&s[i+1]==s[i+2]&&s[i+2]==s[i+3]&&s[i+3]==s[i+4]&&s[i+4]==s[i+5])
+        {
+            flag=1;
+            break;       
+        }
+     
+    }
+    if(flag==1)
+    cout<<"Sorry, sorry!";
+    if(flag==0)
+    cout<<"Good luck!";
+    return 0;
+}
+    
+        
