@@ -9,7 +9,7 @@ This is mostly for my personal learning and future references, but anyone can us
 - [x] [Data Structures](Data-Structures)
     - [x] [Array](Data-Structures/array.py)
     - [x] [Stack](Data-Structures/Stack)
-        - [x] [Stack](Data-Structures/Stack/stack.py)
+        - [x] [Stack Using Array](Data-Structures/Stack/stack.py)
         - [x] [Stack Using Linked List](Data-Structures/Stack/stack-using-linked-list.py)
     - [x] [Queue](Data-Structures/queue.py)
     - [x] [Linked List](Data-Structures/Linked-List)
