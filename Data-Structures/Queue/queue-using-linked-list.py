@@ -30,9 +30,9 @@ class Queue:
             temp = temp.next
 
 x = Queue() # Creating object of queue class
-x.enqueue(1) 
-x.enqueue(2) 
-x.display() # arr = [1,2]
+x.enqueue(1) # Add 1 to the queue
+x.enqueue(2)# Add 2 to the queue
+x.display() # 1 => 2
 print(x.dequeue()) # Deleting the first element of the queue.
 x.display() # 2
 print(x.dequeue()) # 2
