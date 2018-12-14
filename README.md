@@ -1,9 +1,6 @@
 # Data Structures and Algorithms
 Data Structures and Algorithms implementation in Python.
 
-### Why this repository?
-This is mostly for my personal learning and future references, but anyone can use it for learning purpose. 🍻
-
 ### Topics covered:
 
 - [x] [Data Structures](Data-Structures)
@@ -30,3 +27,6 @@ This is mostly for my personal learning and future references, but anyone can us
         - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
         - [ ] [Merge Sort](Algorithms/Sorting)
     - [x] [Kadane's Algorithm](Algorithms/Kadane's-Algorithm.py)
+
+### Why this repository?
+This is mostly for my personal learning and future references, but anyone can use it for learning purpose. 🍻
