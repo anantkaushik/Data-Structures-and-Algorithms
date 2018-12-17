@@ -31,7 +31,6 @@ class Binary_Tree:
 				self._add(val, node.right)
 			else:
 				node.right = Node(val)
-<<<<<<< HEAD
 
 	def printTree(self, trav = "in"):
 		if self.root != None:
@@ -75,5 +74,3 @@ print("----------------")
 bTree.printTree("in") # 3 4 5 6 8 10
 print("----------------")
 bTree.printTree("post") # 3 5 4 10 8 6
-=======
->>>>>>> a366f41130b5bcec64320d5298244b059d98e430
