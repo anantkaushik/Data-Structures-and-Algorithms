@@ -27,6 +27,8 @@ Data Structures and Algorithms implementation in Python.
         - [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
         - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
         - [ ] [Merge Sort](Algorithms/Sorting)
+    - [x] [Strings](Algorithms/Strings)
+    	- [x] [KMP (Knuth Morris Pratt) Pattern Searching](Algorithms/Strings/KMP.py)
     - [x] [Kadane's Algorithm](Algorithms/Kadane's-Algorithm.py)
 
 ### Why this repository?
