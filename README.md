@@ -11,6 +11,8 @@ Data Structures and Algorithms implementation in Python.
     - [x] [Queue](Data-Structures/Queue)
         - [x] [Queue Using Array](Data-Structures/Queue/queue.py)
         - [x] [Queue Using Linked List](Data-Structures/Queue/queue-using-linked-list.py)
+        - [x] [Priority Queue](Data-Structures/Priority-Queues)
+            - [x] [Binary Heaps](Data-Structures/Queue/Priority-Queues/binary-heaps.py)
     - [x] [Linked List](Data-Structures/Linked-List)
     	- [x] [Singly Linked List](Data-Structures/Linked-List/Singly-Linked-List.py)
         - [x] [Doubly Linked List](Data-Structures/Linked-List/Doubly-Linked-List.py)
