@@ -18,6 +18,7 @@ Data Structures and Algorithms implementation in Python.
         - [x] [Doubly Linked List](Data-Structures/Linked-List/Doubly-Linked-List.py)
     - [x] [Tree](Data-Structures/Tree)
     	- [x] [Binary Serach Tree](Data-Structures/Tree/Binary-Search-Tree.py)
+    - [x] [Trie](Data-Structures/Trie/trie.py)
 
 - [x] [Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
