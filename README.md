@@ -21,7 +21,8 @@ Data Structures and Algorithms implementation in Python.
     - [x] [Trie](Data-Structures/Trie/trie.py)
     - [x] [Graphs](Data-Structures/Graphs)
     	- [x] [Graph(Using Adjacency List)](Data-Structures/Graphs/graphs-using-adjacency-list.py)
-        - [x] [Breadth first search	](Data-Structures/Graphs/bfs.py)
+        - [x] [Breadth First Search](Data-Structures/Graphs/bfs.py)
+        - [x] [Depth First Search](Data-Structures/Graphs/dfs.py)
 
 - [x] [Algorithms](Algorithms)
     - [x] [Searching](Algorithms/Searching)
