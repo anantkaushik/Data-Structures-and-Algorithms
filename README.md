@@ -33,6 +33,7 @@ Data Structures and Algorithms implementation in Python.
     	- [x] [Selection Sort](Algorithms/Sorting/selection-sort.py)
         - [x] [Insertion Sort](Algorithms/Sorting/insertion-sort.py)
         - [x] [Shell Sort](Algorithms/Sorting/shell-sort.py)
+        - [x] [Bucket Sort](Algorithms/Sorting/bucket-sort.py)
         - [x] [Merge Sort](Algorithms/Sorting/mergeSort.py)
         - [ ] [Quick Sort](Algorithms/Sorting/)
     - [x] [Strings](Algorithms/Strings)
